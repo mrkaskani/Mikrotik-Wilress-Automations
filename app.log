@@ -1,0 +1,4 @@
+2021-12-12 19:59:02,531 - root - INFO - *** Logs Successfully Cleared ***
+2021-12-12 19:59:21,592 - root - INFO - 192.168.220.117 login to 192.168.88.1, the process is starting
+2021-12-12 19:59:36,605 - root - ERROR - timed out
+2021-12-12 19:59:36,606 - root - INFO - 192.168.220.117  the process has been finished
